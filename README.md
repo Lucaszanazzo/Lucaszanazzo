@@ -8,9 +8,10 @@
 - 📫 How to reach me **lucaszanazzo@gmail.com**
 - 📄 Know about my experiences [In 2021 I started studying Web programming (HTML, CSS, JavaScript) from application courses and then I studied more formally in the Informatory (HTML, Python, MySQL, SQLite, Django). Since I don't get that much attention, I enrolled in video game programming courses (GDScript, C#) due to the fact that I'm a fan of them, it didn't turn out to be what I expected either. But in this way I discovered that the programming language that I like the most was Python.](In 2021 I started studying Web programming (HTML, CSS, JavaScript) from application courses and then I studied more formally in the Informatory (HTML, Python, MySQL, SQLite, Django). Since I don't get that much attention, I enrolled in video game programming courses (GDScript, C#) due to the fact that I'm a fan of them, it didn't turn out to be what I expected either. But in this way I discovered that the programming language that I like the most was Python. Currently I manage with Database (MySQL, SQLite, SQL server)-Python (Pandas, Numpy, MatplotLib)-Power BI-Excel.)
 
-<h3 align="left">Connect with me:</h3>
+ `<h3 align="left">`Connect with me:`</h3>`
+
 <p align="left">
-<a href="https://linkedin.com/in/lucas sebastian zanazzo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas sebastian zanazzo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lucas-sebastian-zanazzo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas sebastian zanazzo" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@lucaszanazzo4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@lucaszanazzo4" height="30" width="40" /></a>
 </p>
 
