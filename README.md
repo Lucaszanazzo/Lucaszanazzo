@@ -13,7 +13,8 @@
 - Python (Pandas, Numpy, MatplotLib)
 - Power BI- Tableau - Excel.
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
+
 
 `<p align="left">`
 `<a href="https://linkedin.com/in/lucas-sebastian-zanazzo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas sebastian zanazzo" height="30" width="40" />``</a>`
